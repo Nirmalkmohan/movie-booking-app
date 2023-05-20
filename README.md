@@ -6,7 +6,7 @@ This project provides an API for movie booking, including endpoints for retrievi
 
 <h1>Endpoints</h1>
 
-User Registration
+#User Registration
 Endpoint: /user/signup/
 Method: POST
 Parameters: User data (username, email, password)
