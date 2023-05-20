@@ -65,6 +65,9 @@ IsAuthenticated: This permission class is used for the BookingCreateAPIView to r
  <h1>Setup and Usage</h1>
 To run this project locally, follow these steps:
 
-Install the required dependencies specified in the project's requirements.txt file.
+Install the required dependencies - 
+Django
+djangorestframework
+
 Set up your Django project and database configuration.
 Run the Django development server.
