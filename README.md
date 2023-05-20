@@ -4,7 +4,7 @@ A movie ticket booking application built-in Django which include - Ability to vi
 <h1>Movie Booking API</h1>
 This project provides an API for movie booking, including endpoints for retrieving movie details, theater details, showtimes, booking tickets, and searching by location or movie.
 
-Endpoints
+<h1>Endpoints</h1>
 
 User Registration
 Endpoint: /user/signup/
