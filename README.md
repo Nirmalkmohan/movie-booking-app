@@ -61,6 +61,11 @@ Description: This endpoint allows searching for theaters playing a specific movi
 The API includes permissions to control access to certain endpoints:
 
 IsAuthenticated: This permission class is used for the BookingCreateAPIView to restrict access to authenticated users only. Only authenticated users can book tickets.
+  <br>
+I have used the admin interface provided by Django to edit databases like adding theatres, movies etc.
+  To login:http://127.0.0.1:8000/admin/ <br>
+  username: admin <br>
+  password: admin 
 
  <h1>Setup and Usage</h1>
 To run this project locally, follow these steps:
